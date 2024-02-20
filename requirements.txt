@@ -1,7 +1,7 @@
- streamlit 
- csv 
+streamlit 
+csv 
 time
- matplotlib.pyplot 
+matplotlib 
 seaborn 
 
 
